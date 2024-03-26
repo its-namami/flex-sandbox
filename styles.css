@@ -2,8 +2,29 @@
 .parent{
     border: 5px double peachpuff;
     display: flex;
-    height: 50vh;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
+.child{
+    display: flex;
+    
+    width: 30vw;
+    height: 30vh;
+    border: 5px ridge coral;
+}
+
+.one{
+    background-color:aqua;
+}
+
+.two{
+    background-color:turquoise;
+}
+.three{
+    background-color:skyblue;
+}
+.four{
+    background-color:cyan;
+}
