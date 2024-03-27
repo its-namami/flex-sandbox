@@ -1,5 +1,5 @@
 This is one of many other READ-ME' s.
-The main objective of this one is to make sure I got the right req, and it's also a good software development practice, as well.
+The main objective of this one is to make sure I got the right reposistory, and it's also a good software development practice, as well.
 Might as well write what I need:
 
 Bootstrap;
